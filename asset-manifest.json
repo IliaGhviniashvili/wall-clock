@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/wall-clock/static/css/main.31d6cfe0.css",
+    "main.js": "/wall-clock/static/js/main.e289ce31.js",
+    "index.html": "/wall-clock/index.html",
+    "main.e289ce31.js.map": "/wall-clock/static/js/main.e289ce31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.e289ce31.js"
+  ]
+}

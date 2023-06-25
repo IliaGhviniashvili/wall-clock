@@ -1,0 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  background-image: url("./images/wall-background.jpg");
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
+}

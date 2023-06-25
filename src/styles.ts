@@ -6,7 +6,6 @@ export const Wrapper = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: rgb(59, 57, 53);
 `;
 
 export const Clock = styled.div`
@@ -15,6 +14,7 @@ export const Clock = styled.div`
   border: 2px solid salmon;
   border-radius: 50%;
   position: relative;
+  background-color: gray;
 `;
 export const HourHand = styled.div<{ rotation: number }>`
   position: absolute;

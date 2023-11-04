@@ -20,8 +20,8 @@ export const HourHand = styled.div<{ rotation: number }>`
   position: absolute;
   height: 5px;
   width: 5px;
-  top: calc(50% - 2.5px); /* Adjusted top positioning to center the hand */
-  left: calc(50% - 2.5px);
+  top: calc(50% - 2px); /* Adjusted top positioning to center the hand */
+  left: calc(50% - 2px);
   transform: rotate(${(p) => p.rotation}deg);
   &:after {
     content: "";
